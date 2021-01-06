@@ -1,0 +1,9 @@
+{
+    "entidade": "aplication",
+    "status": 1,
+    "path": "/Users/developer/projects/modulos/modulos-api/",
+    "rewriteGlobalStyles": true,
+    "rewriteIndexPages": false,
+    "type": "cloud",
+    "name": "modulos-api"
+}
